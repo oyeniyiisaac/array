@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cartBody{
+    background-color: gray;
+    width: 50px;
+    position: relative;
+    padding-top: 20px;
+
+}
+.cartText {
+    font-size: 20px;
+    position: absolute;
+    right: 30px;
+    top: 6px;
+    z-index: 10px;
+}
